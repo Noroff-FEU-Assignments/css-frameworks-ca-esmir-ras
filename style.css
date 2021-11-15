@@ -17,6 +17,10 @@ body {
   color: white;
   border: none;
 }
+.btn-toolbar{
+    margin
+}
+
 .btn:hover {
   background-color: #e92569;
   color: white;
@@ -37,4 +41,16 @@ body {
 .navbar {
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.card {
+  margin: 50px;
+}
+
+main{
+    margin-left: 50px;
+}
+main h1{
+    font-family: 'Playfair Display', serif;
+    color: #e92569 !important;
 }

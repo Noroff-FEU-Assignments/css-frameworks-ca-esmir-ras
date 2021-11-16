@@ -85,4 +85,11 @@
       color: #e92569;
   }
 
+  .card-img-top{
+    border-radius: 16px 16px 0px 0px
+  }
+  .card {
+    border-radius: 16px 16px 0px 0px
+  }
+
  

@@ -9,7 +9,7 @@
   }
   
   body {
-    background-color: #efefef;
+    background: radial-gradient(#efefef, #E5E5E5);
   }
   
   .btn {
@@ -78,6 +78,9 @@
     padding-bottom: 20px;
     background-color: white;
     margin-top: 40px;
+    font-family: 'Lato', sans-serif;
+    color: #767676;
+
   }
 
   .btn-primary2, .btn-primary3, .btn-primary4{
@@ -92,4 +95,22 @@
     border-radius: 16px 16px 0px 0px
   }
 
+  
+  .md-3 button:hover {
+    color: #e92569;
+  }
+
+i{
+  color: #767676;
+  font-size: 34px;
+  margin-left: 15px;
+}
+
+.fa-vimeo-v{
+margin-left: 50px;
+}
+
+footer > div{
+  margin-right: 50px;
+}
  
